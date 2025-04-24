@@ -1,7 +1,7 @@
 # osu!(lazer) config+skin
  backup/save of my osu!(lazer) config and used skin
  
- version: 2025.321.0-lazer  
+ version: 2025.424.0-lazer  
  os: Fedora 41 - KDE (wayland)  
  tablet: Wacom CTH-480  
  area:
@@ -14,5 +14,5 @@
  width | 152
  height | 86
 
- cursor-size: 0.7  
+ cursor-size: 0.5  
  tapping: x and c, middle and index  
