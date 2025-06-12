@@ -1,9 +1,10 @@
 # osu!(lazer) config+skin
  backup/save of my osu!(lazer) config and used skin
  
- version: 2025.424.0-lazer  
- os: Fedora 41 - KDE (wayland)  
+ version: 2025.607.1-lazer  
+ os: Fedora 42 - Hyprland (wayland)  
  tablet: Wacom CTH-480  
+ keypad: Momokai Tap Trio  
  area:
  var | val
  ---|---
