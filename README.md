@@ -1,7 +1,7 @@
 # osu!(lazer) config+skin
  backup/save of my osu!(lazer) config and used skin
  
- version: 2025.710.0-lazer  
+ version: 2025.905.0-tachyon  
  os: Fedora 42 - Hyprland (wayland)  
  tablet: Wacom CTH-480  
  keypad: Momokai Tap Trio  
